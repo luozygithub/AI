@@ -3,7 +3,8 @@
     <nav>
       <router-link to="/">ChatAI</router-link> |
 <!--      <router-link to="/excel">Excel</router-link> |-->
-      <router-link to="/imgai">ImgAI</router-link>
+      <router-link to="/imgai">ImgAI</router-link> |
+      <router-link to="/textAI">TextAI</router-link>
     </nav>
     <router-view/>
   </div>
